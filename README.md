@@ -25,6 +25,3 @@ I work on cool things like bots on Discord!<br /> <br />
 <br />
 
 ---
-
-<img align="left" alt="Hqrion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hqrion&show_icons=true&hide_border=true" />
-<img align="left" alt="Hqrion's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hqrion&langs_count=8&layout=compact" />
