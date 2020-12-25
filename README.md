@@ -1,6 +1,6 @@
 ## Hey! I'm Hqrion. 👋
 
-I'm a student currently in college, a very experienced API and Web Developer. <br /> 
+A very experienced API and Web Developer. <br /> 
 I work on cool things like bots on Discord!<br /> <br />
 [Discord <img align="left" alt="Hqrion#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://discord.bio/p/Hqrion)
 
